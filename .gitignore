@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# JetBrains (PyCharm)
+.idea/
+
+# OS files
+.DS_Store
